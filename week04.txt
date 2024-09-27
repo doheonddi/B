@@ -10,4 +10,6 @@
 - Go 환경 셋업
 Go 컴파일러 설치
 VSC 셋업
+
+go init
 >>>>>>> 756729937aafdebb59fab293035ff85df615733a
